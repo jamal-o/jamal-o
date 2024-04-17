@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Im currently learning Backend development with NodeJs and CrossPlatform development with Flutter
+I am currently learning backend development with NodeJs and CrossPlatform development with Flutter.
 
 
 ## 🌐 Socials:
